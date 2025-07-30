@@ -16,7 +16,6 @@ const Imalsha = {
     name: "Imalsha Rathnayake",
     location: "Sri Lanka, Kandy",
     email: "Imalsha.u.rathnayake@gmail.com",
-    phone: "+94741180602",
     education: "BSc (Hons) Software Engineering - 2nd Year (NIBM)",
     gpa: "3.4+",
     code: ["Javascript", "Python", "Java", "R", "HTML", "CSS"],
