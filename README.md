@@ -1,13 +1,13 @@
-<a href="https://github.com/Imalsha-19"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Imalsha%20Rathnayake&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/></a>
+<a href="https://github.com/Imalsha-19"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,22&height=180&section=header&text=Imalsha%20Rathnayake&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/></a>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Imalsha+Rathnayake+%F0%9F%91%8B;Software+Engineering+Student;Frontend+Developer;Data+Analyst;Problem+Solver;STEMUP+Volunteer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Imalsha+Rathnayake+%F0%9F%91%8B;Software+Engineering+Student;Frontend+Developer;Data+Analyst;Problem+Solver;STEMUP+Volunteer;" alt="Headline" />
 </div>
 
 ---
 
 <h3 align="center">🚀 Building Tomorrow's Digital Solutions Today</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Imalsha-19&label=Profile%20views&color=0e75b6&style=flat" alt="Imalsha-19" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Imalsha-19&label=Profile%20views&color=ff69b4&style=flat" alt="Imalsha-19" /></p>
 
 ## 👨‍💻 About Me
 
@@ -50,15 +50,15 @@ const Imalsha = {
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Imalsha-19&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Imalsha-19&theme=radical&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Imalsha-19 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Imalsha-19&theme=tokyonight&hide_border=true" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Imalsha-19 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Imalsha-19&theme=radical&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imalsha-19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imalsha-19&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   <br></br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imalsha-19&repo=Imalsha-19&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imalsha-19&repo=Imalsha-19&theme=radical&hide_border=true" />
 </td>
 </tr>
 </table>
@@ -185,22 +185,21 @@ Conducting engaging Code Club sessions to inspire and teach programming fundamen
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imalsha-19&theme=tokyo-night&hide_border=true&custom_title=Imalsha's%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imalsha-19&theme=dracula&hide_border=true&custom_title=Imalsha's%20Contribution%20Graph" width="100%"/>
 </div>
 
 ---
-
 
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,22&height=100&section=footer"/>
 </div>
 
 ---
