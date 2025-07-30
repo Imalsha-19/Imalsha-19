@@ -190,12 +190,6 @@ Conducting engaging Code Club sessions to inspire and teach programming fundamen
 
 ---
 
-## 🐍 Contribution Snake
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Imalsha-19/Imalsha-19/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 ## 💡 Random Dev Quote
 
